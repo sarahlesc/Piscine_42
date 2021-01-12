@@ -1,6 +1,6 @@
 # PISCINE DE 42 PARIS JUILLET 2019
 
-Examen d'entrée a l'Ecole 42
+Examen d'entrée à l'Ecole 42
 
 SHELL 00 : 100/100 :white_check_mark:
 
